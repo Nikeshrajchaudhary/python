@@ -1,0 +1,6 @@
+Name: aaa
+Age: 10
+Gender: male
+Address: ktm
+Contact: 90429343232
+Email: shdkjsn@gmail.com
